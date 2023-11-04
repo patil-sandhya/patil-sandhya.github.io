@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5f83ec6a.css",
-    "main.js": "/static/js/main.d0ff9dc2.js",
+    "main.js": "/static/js/main.2392b834.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/GemGarden.png": "/static/media/GemGarden.55dbb56ab81f62df726a.png",
     "static/media/DreamDesTine.png": "/static/media/DreamDesTine.269d3569de6f44d58091.png",
@@ -13,11 +13,11 @@
     "static/media/bootstrap.jpg": "/static/media/bootstrap.95d993fa12d4cb51111e.jpg",
     "index.html": "/index.html",
     "main.5f83ec6a.css.map": "/static/css/main.5f83ec6a.css.map",
-    "main.d0ff9dc2.js.map": "/static/js/main.d0ff9dc2.js.map",
+    "main.2392b834.js.map": "/static/js/main.2392b834.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f83ec6a.css",
-    "static/js/main.d0ff9dc2.js"
+    "static/js/main.2392b834.js"
   ]
 }
