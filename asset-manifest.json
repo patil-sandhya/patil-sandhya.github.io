@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.5f83ec6a.css",
-    "main.js": "/static/js/main.0ed1ef75.js",
+    "main.js": "/static/js/main.f482ca01.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/GemGarden.png": "/static/media/GemGarden.55dbb56ab81f62df726a.png",
     "static/media/DreamDesTine.png": "/static/media/DreamDesTine.269d3569de6f44d58091.png",
+    "static/media/Moonshine.png": "/static/media/Moonshine.6d20684d5cda2d8565ab.png",
     "static/media/Cheersshop.png": "/static/media/Cheersshop.568a02ec07b30bf32aec.png",
     "static/media/Sandhya_Patil_Resume.pdf": "/static/media/Sandhya_Patil_Resume.1d9295ac30f72dddb160.pdf",
     "static/media/slacPro2.jpeg": "/static/media/slacPro2.f9767bccd7f3a0042c32.jpeg",
@@ -11,11 +13,11 @@
     "static/media/bootstrap.jpg": "/static/media/bootstrap.95d993fa12d4cb51111e.jpg",
     "index.html": "/index.html",
     "main.5f83ec6a.css.map": "/static/css/main.5f83ec6a.css.map",
-    "main.0ed1ef75.js.map": "/static/js/main.0ed1ef75.js.map",
+    "main.f482ca01.js.map": "/static/js/main.f482ca01.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f83ec6a.css",
-    "static/js/main.0ed1ef75.js"
+    "static/js/main.f482ca01.js"
   ]
 }
