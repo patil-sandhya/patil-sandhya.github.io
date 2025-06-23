@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a04f7ecf.css",
-    "main.js": "/static/js/main.ca3827bd.js",
+    "main.js": "/static/js/main.a14237b5.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/GemGarden.png": "/static/media/GemGarden.55dbb56ab81f62df726a.png",
     "static/media/DreamDesTine.png": "/static/media/DreamDesTine.269d3569de6f44d58091.png",
@@ -9,18 +9,18 @@
     "static/media/PersonalWeb.png": "/static/media/PersonalWeb.53bad36ad0583c3ff143.png",
     "static/media/forky.png": "/static/media/forky.bfe853f0dcbf841e6d57.png",
     "static/media/Cheersshop.png": "/static/media/Cheersshop.568a02ec07b30bf32aec.png",
-    "static/media/Sandhya-Patil-Resume.pdf": "/static/media/Sandhya-Patil-Resume.6eba7af73b948c72ac92.pdf",
     "static/media/Mortgage.png": "/static/media/Mortgage.4452d26770b474d8624b.png",
+    "static/media/Sandhya-Patil-Resume.pdf": "/static/media/Sandhya-Patil-Resume.aa1d13cb12bed9647efa.pdf",
     "static/media/slacPro2.jpeg": "/static/media/slacPro2.f9767bccd7f3a0042c32.jpeg",
     "static/media/express.png": "/static/media/express.343cc889d9204327f934.png",
     "static/media/bootstrap.jpg": "/static/media/bootstrap.95d993fa12d4cb51111e.jpg",
     "index.html": "/index.html",
     "main.a04f7ecf.css.map": "/static/css/main.a04f7ecf.css.map",
-    "main.ca3827bd.js.map": "/static/js/main.ca3827bd.js.map",
+    "main.a14237b5.js.map": "/static/js/main.a14237b5.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a04f7ecf.css",
-    "static/js/main.ca3827bd.js"
+    "static/js/main.a14237b5.js"
   ]
 }
